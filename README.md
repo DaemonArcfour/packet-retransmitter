@@ -1,3 +1,3 @@
 # packet-retransmitter
 
-Made to retransmit huffman packets throught hundreds of proxies.
+Made to retransmit huffman packets through hundreds of proxies.
